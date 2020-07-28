@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is **Hamed** and I am a software developer based in Iran. Here, you can find some of my open-source contribution.
+My name is **Hamed** . I am a software developer based in Iran. Here, you can find some of my open-source contributions.
 
 
 
